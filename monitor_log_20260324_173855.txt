@@ -1,0 +1,396 @@
+[17:38:55.554] ════════════════════════════════════════════════════════════
+[17:38:55.555]   BGMI MATCH STATE MONITOR
+[17:38:55.555] ════════════════════════════════════════════════════════════
+[17:38:55.555]   File     : D:\OCR FILES\match_state.json
+[17:38:55.556]   Interval : 100ms
+[17:38:55.556]   Log file : monitor_log_20260324_173855.txt
+[17:38:55.556]   Started  : 2026-03-24 17:38:55
+[17:38:55.556] ════════════════════════════════════════════════════════════
+[17:38:55.557]   Press Ctrl+C to stop and see summary
+
+[17:38:55.558]   ✓ File loaded — printing initial state
+[17:38:55.558] ──────────────────────────────────────────────────────────────────────
+[17:38:55.558]   FULL STATE SNAPSHOT
+[17:38:55.558] ──────────────────────────────────────────────────────────────────────
+[17:38:55.559]   Meta -> Alive:? Dead:? Kills:? Page:None
+[17:38:55.559]   [05] a          LIVE K=0  —
+[17:38:55.560]   [06] s          LIVE K=0  —
+[17:38:55.563]   [07] d          LIVE K=0  —
+[17:38:55.564]   [08] f          LIVE K=0  —
+[17:38:55.564]   [09] g          LIVE K=0  —
+[17:38:55.564]   [10] h          LIVE K=0  —
+[17:38:55.565]   [11] j          LIVE K=0  —
+[17:38:55.566]   [12] k          LIVE K=0  —
+[17:38:55.566]   [13] l          LIVE K=0  —
+[17:38:55.566]   [14] z          LIVE K=0  —
+[17:38:55.566]   [15] x          LIVE K=0  —
+[17:38:55.567]   [16] c          LIVE K=0  —
+[17:38:55.567]   [17] v          LIVE K=0  —
+[17:38:55.568]   [18] b          LIVE K=0  —
+[17:38:55.569]   [19] n          LIVE K=0  —
+[17:38:55.571]   [20] m          LIVE K=0  —
+[17:38:55.572]   [21] q          LIVE K=0  —
+[17:38:55.572]   [22] w          LIVE K=0  —
+[17:38:55.573] ──────────────────────────────────────────────────────────────────────
+[17:39:00.310]   ── CHANGE DETECTED (+284ms since last) ─────────────
+[17:39:00.443]   META Page: None -> 1
+[17:39:01.864]   ♥  heartbeat | polls:50 teams:18 alive:18 dead:0 reversions:0
+[17:39:06.189]   ── CHANGE DETECTED (+5960ms since last) ─────────────
+[17:39:06.209]   AC   [05] a aliveCount: None -> 4
+[17:39:06.252]   PS  [05] a P1: None -> ALIVE
+[17:39:06.256]   PS  [05] a P2: None -> ALIVE
+[17:39:06.326]   PS  [05] a P3: None -> ALIVE
+[17:39:06.341]   PS  [05] a P4: None -> ALIVE
+[17:39:06.354]   AC   [06] s aliveCount: None -> 4
+[17:39:06.371]   PS  [06] s P1: None -> ALIVE
+[17:39:06.388]   PS  [06] s P2: None -> ALIVE
+[17:39:06.402]   PS  [06] s P3: None -> ALIVE
+[17:39:06.404]   PS  [06] s P4: None -> ALIVE
+[17:39:06.405]   KILL [07] d kills: 0 -> 1 (+1)
+[17:39:06.412]   AC   [07] d aliveCount: None -> 4
+[17:39:06.413]   PS  [07] d P1: None -> ALIVE
+[17:39:06.413]   PS  [07] d P2: None -> ALIVE
+[17:39:06.414]   PS  [07] d P3: None -> ALIVE
+[17:39:06.414]   PS  [07] d P4: None -> ALIVE
+[17:39:06.416]   AC   [08] f aliveCount: None -> 4
+[17:39:06.422]   PS  [08] f P1: None -> ALIVE
+[17:39:06.452]   PS  [08] f P2: None -> ALIVE
+[17:39:06.485]   PS  [08] f P3: None -> ALIVE
+[17:39:06.487]   PS  [08] f P4: None -> ALIVE
+[17:39:06.496]   AC   [09] g aliveCount: None -> 4
+[17:39:06.505]   PS  [09] g P1: None -> ALIVE
+[17:39:06.507]   PS  [09] g P2: None -> ALIVE
+[17:39:06.511]   PS  [09] g P3: None -> ALIVE
+[17:39:06.516]   PS  [09] g P4: None -> ALIVE
+[17:39:06.522]   AC   [10] h aliveCount: None -> 4
+[17:39:06.524]   PS  [10] h P1: None -> ALIVE
+[17:39:06.526]   PS  [10] h P2: None -> ALIVE
+[17:39:06.527]   PS  [10] h P3: None -> ALIVE
+[17:39:06.527]   PS  [10] h P4: None -> ALIVE
+[17:39:06.528]   AC   [11] j aliveCount: None -> 3
+[17:39:06.548]   PS  [11] j P1: None -> ALIVE
+[17:39:06.551]   PS  [11] j P2: None -> ALIVE
+[17:39:06.553]   PS  [11] j P3: None -> ALIVE
+[17:39:06.556]   PS  [11] j P4: None -> DEAD
+[17:39:06.557]   AC   [12] k aliveCount: None -> 4
+[17:39:06.557]   PS  [12] k P1: None -> ALIVE
+[17:39:06.557]   PS  [12] k P2: None -> ALIVE
+[17:39:06.558]   PS  [12] k P3: None -> ALIVE
+[17:39:06.558]   PS  [12] k P4: None -> ALIVE
+[17:39:06.561]   KILL [13] l kills: 0 -> 1 (+1)
+[17:39:06.567]   AC   [13] l aliveCount: None -> 4
+[17:39:06.575]   PS  [13] l P1: None -> ALIVE
+[17:39:06.577]   PS  [13] l P2: None -> ALIVE
+[17:39:06.580]   PS  [13] l P3: None -> ALIVE
+[17:39:06.581]   PS  [13] l P4: None -> ALIVE
+[17:39:08.597]   ♥  heartbeat | polls:100 teams:18 alive:18 dead:0 reversions:0
+[17:39:14.092]   ♥  heartbeat | polls:150 teams:18 alive:18 dead:0 reversions:0
+[17:39:19.569]   ♥  heartbeat | polls:200 teams:18 alive:18 dead:0 reversions:0
+[17:39:25.088]   ♥  heartbeat | polls:250 teams:18 alive:18 dead:0 reversions:0
+[17:39:30.573]   ♥  heartbeat | polls:300 teams:18 alive:18 dead:0 reversions:0
+[17:39:36.055]   ♥  heartbeat | polls:350 teams:18 alive:18 dead:0 reversions:0
+[17:39:41.550]   ♥  heartbeat | polls:400 teams:18 alive:18 dead:0 reversions:0
+[17:39:47.067]   ♥  heartbeat | polls:450 teams:18 alive:18 dead:0 reversions:0
+[17:39:52.554]   ♥  heartbeat | polls:500 teams:18 alive:18 dead:0 reversions:0
+[17:39:58.079]   ♥  heartbeat | polls:550 teams:18 alive:18 dead:0 reversions:0
+[17:40:00.287]   ── CHANGE DETECTED (+54180ms since last) ─────────────
+[17:40:00.292]   META SlotsLocked: False -> True
+[17:40:03.580]   ♥  heartbeat | polls:600 teams:18 alive:18 dead:0 reversions:0
+[17:40:09.066]   ♥  heartbeat | polls:650 teams:18 alive:18 dead:0 reversions:0
+[17:40:14.566]   ♥  heartbeat | polls:700 teams:18 alive:18 dead:0 reversions:0
+[17:40:20.051]   ♥  heartbeat | polls:750 teams:18 alive:18 dead:0 reversions:0
+[17:40:25.528]   ♥  heartbeat | polls:800 teams:18 alive:18 dead:0 reversions:0
+[17:40:31.017]   ♥  heartbeat | polls:850 teams:18 alive:18 dead:0 reversions:0
+[17:40:36.501]   ♥  heartbeat | polls:900 teams:18 alive:18 dead:0 reversions:0
+[17:40:41.989]   ♥  heartbeat | polls:950 teams:18 alive:18 dead:0 reversions:0
+[17:40:47.493]   ♥  heartbeat | polls:1000 teams:18 alive:18 dead:0 reversions:0
+[17:40:52.972]   ♥  heartbeat | polls:1050 teams:18 alive:18 dead:0 reversions:0
+[17:40:58.486]   ♥  heartbeat | polls:1100 teams:18 alive:18 dead:0 reversions:0
+[17:41:04.007]   ♥  heartbeat | polls:1150 teams:18 alive:18 dead:0 reversions:0
+[17:41:09.495]   ♥  heartbeat | polls:1200 teams:18 alive:18 dead:0 reversions:0
+[17:41:15.000]   ♥  heartbeat | polls:1250 teams:18 alive:18 dead:0 reversions:0
+[17:41:20.483]   ♥  heartbeat | polls:1300 teams:18 alive:18 dead:0 reversions:0
+[17:41:25.953]   ♥  heartbeat | polls:1350 teams:18 alive:18 dead:0 reversions:0
+[17:41:30.492]   ── CHANGE DETECTED (+90211ms since last) ─────────────
+[17:41:30.493]   KILL [08] f kills: 0 -> 1 (+1)
+[17:41:30.494]   AC   [12] k aliveCount: 4 -> 1
+[17:41:30.494]   PS  [12] k P2: ALIVE -> DEAD
+[17:41:30.495]   PS  [12] k P3: ALIVE -> DEAD
+[17:41:30.495]   PS  [12] k P4: ALIVE -> DEAD
+[17:41:31.495]   ♥  heartbeat | polls:1400 teams:18 alive:18 dead:0 reversions:0
+[17:41:36.997]   ♥  heartbeat | polls:1450 teams:18 alive:18 dead:0 reversions:0
+[17:41:42.499]   ♥  heartbeat | polls:1500 teams:18 alive:18 dead:0 reversions:0
+[17:41:47.964]   ♥  heartbeat | polls:1550 teams:18 alive:18 dead:0 reversions:0
+[17:41:53.497]   ♥  heartbeat | polls:1600 teams:18 alive:18 dead:0 reversions:0
+[17:41:59.077]   ♥  heartbeat | polls:1650 teams:18 alive:18 dead:0 reversions:0
+[17:42:04.554]   ♥  heartbeat | polls:1700 teams:18 alive:18 dead:0 reversions:0
+[17:42:10.078]   ♥  heartbeat | polls:1750 teams:18 alive:18 dead:0 reversions:0
+[17:42:15.601]   ♥  heartbeat | polls:1800 teams:18 alive:18 dead:0 reversions:0
+[17:42:19.787]   ── CHANGE DETECTED (+49297ms since last) ─────────────
+[17:42:19.791]   KILL [08] f kills: 1 -> 2 (+1)
+[17:42:21.090]   ♥  heartbeat | polls:1850 teams:18 alive:18 dead:0 reversions:0
+[17:42:26.576]   ♥  heartbeat | polls:1900 teams:18 alive:18 dead:0 reversions:0
+[17:42:32.065]   ♥  heartbeat | polls:1950 teams:18 alive:18 dead:0 reversions:0
+[17:42:37.552]   ♥  heartbeat | polls:2000 teams:18 alive:18 dead:0 reversions:0
+[17:42:43.040]   ♥  heartbeat | polls:2050 teams:18 alive:18 dead:0 reversions:0
+[17:42:46.331]   ── CHANGE DETECTED (+26543ms since last) ─────────────
+[17:42:46.332]   KILL [08] f kills: 2 -> 4 (+2)
+[17:42:48.526]   ♥  heartbeat | polls:2100 teams:18 alive:18 dead:0 reversions:0
+[17:42:54.029]   ♥  heartbeat | polls:2150 teams:18 alive:18 dead:0 reversions:0
+[17:42:59.663]   ♥  heartbeat | polls:2200 teams:18 alive:18 dead:0 reversions:0
+[17:43:05.173]   ♥  heartbeat | polls:2250 teams:18 alive:18 dead:0 reversions:0
+[17:43:10.659]   ♥  heartbeat | polls:2300 teams:18 alive:18 dead:0 reversions:0
+[17:43:16.141]   ♥  heartbeat | polls:2350 teams:18 alive:18 dead:0 reversions:0
+[17:43:21.673]   ♥  heartbeat | polls:2400 teams:18 alive:18 dead:0 reversions:0
+[17:43:27.163]   ♥  heartbeat | polls:2450 teams:18 alive:18 dead:0 reversions:0
+[17:43:32.665]   ♥  heartbeat | polls:2500 teams:18 alive:18 dead:0 reversions:0
+[17:43:38.167]   ♥  heartbeat | polls:2550 teams:18 alive:18 dead:0 reversions:0
+[17:43:43.687]   ♥  heartbeat | polls:2600 teams:18 alive:18 dead:0 reversions:0
+[17:43:49.172]   ♥  heartbeat | polls:2650 teams:18 alive:18 dead:0 reversions:0
+[17:43:54.672]   ♥  heartbeat | polls:2700 teams:18 alive:18 dead:0 reversions:0
+[17:44:00.187]   ♥  heartbeat | polls:2750 teams:18 alive:18 dead:0 reversions:0
+[17:44:05.688]   ♥  heartbeat | polls:2800 teams:18 alive:18 dead:0 reversions:0
+[17:44:11.198]   ♥  heartbeat | polls:2850 teams:18 alive:18 dead:0 reversions:0
+[17:44:16.703]   ♥  heartbeat | polls:2900 teams:18 alive:18 dead:0 reversions:0
+[17:44:22.193]   ♥  heartbeat | polls:2950 teams:18 alive:18 dead:0 reversions:0
+[17:44:27.715]   ♥  heartbeat | polls:3000 teams:18 alive:18 dead:0 reversions:0
+[17:44:31.392]   ── CHANGE DETECTED (+105038ms since last) ─────────────
+[17:44:31.400]   KILL [10] h kills: 0 -> 1 (+1)
+[17:44:33.326]   ♥  heartbeat | polls:3050 teams:18 alive:18 dead:0 reversions:0
+[17:44:38.827]   ♥  heartbeat | polls:3100 teams:18 alive:18 dead:0 reversions:0
+[17:44:44.308]   ♥  heartbeat | polls:3150 teams:18 alive:18 dead:0 reversions:0
+[17:44:49.831]   ♥  heartbeat | polls:3200 teams:18 alive:18 dead:0 reversions:0
+[17:44:55.328]   ♥  heartbeat | polls:3250 teams:18 alive:18 dead:0 reversions:0
+[17:45:00.841]   ♥  heartbeat | polls:3300 teams:18 alive:18 dead:0 reversions:0
+[17:45:06.329]   ♥  heartbeat | polls:3350 teams:18 alive:18 dead:0 reversions:0
+[17:45:11.850]   ♥  heartbeat | polls:3400 teams:18 alive:18 dead:0 reversions:0
+[17:45:17.339]   ♥  heartbeat | polls:3450 teams:18 alive:18 dead:0 reversions:0
+[17:45:22.840]   ♥  heartbeat | polls:3500 teams:18 alive:18 dead:0 reversions:0
+[17:45:28.336]   ♥  heartbeat | polls:3550 teams:18 alive:18 dead:0 reversions:0
+[17:45:33.873]   ── CHANGE DETECTED (+62503ms since last) ─────────────
+[17:45:33.876]   AC   [06] s aliveCount: 4 -> 3
+[17:45:33.877]   PS  [06] s P4: ALIVE -> DEAD
+[17:45:33.878]   KILL [13] l kills: 1 -> 2 (+1)
+[17:45:33.879]   ♥  heartbeat | polls:3600 teams:18 alive:18 dead:0 reversions:0
+[17:45:39.320]   ♥  heartbeat | polls:3650 teams:18 alive:18 dead:0 reversions:0
+[17:45:44.807]   ♥  heartbeat | polls:3700 teams:18 alive:18 dead:0 reversions:0
+[17:45:50.473]   ♥  heartbeat | polls:3750 teams:18 alive:18 dead:0 reversions:0
+[17:45:55.911]   ♥  heartbeat | polls:3800 teams:18 alive:18 dead:0 reversions:0
+[17:46:01.417]   ♥  heartbeat | polls:3850 teams:18 alive:18 dead:0 reversions:0
+[17:46:06.894]   ♥  heartbeat | polls:3900 teams:18 alive:18 dead:0 reversions:0
+[17:46:12.363]   ♥  heartbeat | polls:3950 teams:18 alive:18 dead:0 reversions:0
+[17:46:17.845]   ♥  heartbeat | polls:4000 teams:18 alive:18 dead:0 reversions:0
+[17:46:23.323]   ♥  heartbeat | polls:4050 teams:18 alive:18 dead:0 reversions:0
+[17:46:26.531]   ── CHANGE DETECTED (+52656ms since last) ─────────────
+[17:46:26.532]   AC   [06] s aliveCount: 3 -> 2
+[17:46:26.533]   PS  [06] s P3: ALIVE -> DEAD
+[17:46:26.534]   KILL [10] h kills: 1 -> 2 (+1)
+[17:46:28.812]   ♥  heartbeat | polls:4100 teams:18 alive:18 dead:0 reversions:0
+[17:46:30.916]   ── CHANGE DETECTED (+4387ms since last) ─────────────
+[17:46:30.917]   KILL [10] h kills: 2 -> 3 (+1)
+[17:46:34.296]   ♥  heartbeat | polls:4150 teams:18 alive:18 dead:0 reversions:0
+[17:46:39.827]   ♥  heartbeat | polls:4200 teams:18 alive:18 dead:0 reversions:0
+[17:46:45.383]   ♥  heartbeat | polls:4250 teams:18 alive:18 dead:0 reversions:0
+[17:46:50.865]   ♥  heartbeat | polls:4300 teams:18 alive:18 dead:0 reversions:0
+[17:46:56.364]   ♥  heartbeat | polls:4350 teams:18 alive:18 dead:0 reversions:0
+[17:47:01.855]   ♥  heartbeat | polls:4400 teams:18 alive:18 dead:0 reversions:0
+[17:47:07.327]   ♥  heartbeat | polls:4450 teams:18 alive:18 dead:0 reversions:0
+[17:47:12.796]   ♥  heartbeat | polls:4500 teams:18 alive:18 dead:0 reversions:0
+[17:47:18.336]   ♥  heartbeat | polls:4550 teams:18 alive:18 dead:0 reversions:0
+[17:47:23.846]   ♥  heartbeat | polls:4600 teams:18 alive:18 dead:0 reversions:0
+[17:47:29.377]   ♥  heartbeat | polls:4650 teams:18 alive:18 dead:0 reversions:0
+[17:47:34.923]   ♥  heartbeat | polls:4700 teams:18 alive:18 dead:0 reversions:0
+[17:47:40.405]   ♥  heartbeat | polls:4750 teams:18 alive:18 dead:0 reversions:0
+[17:47:45.893]   ♥  heartbeat | polls:4800 teams:18 alive:18 dead:0 reversions:0
+[17:47:51.387]   ♥  heartbeat | polls:4850 teams:18 alive:18 dead:0 reversions:0
+[17:47:56.896]   ♥  heartbeat | polls:4900 teams:18 alive:18 dead:0 reversions:0
+[17:48:02.396]   ♥  heartbeat | polls:4950 teams:18 alive:18 dead:0 reversions:0
+[17:48:07.898]   ♥  heartbeat | polls:5000 teams:18 alive:18 dead:0 reversions:0
+[17:48:13.387]   ♥  heartbeat | polls:5050 teams:18 alive:18 dead:0 reversions:0
+[17:48:18.886]   ♥  heartbeat | polls:5100 teams:18 alive:18 dead:0 reversions:0
+[17:48:24.376]   ♥  heartbeat | polls:5150 teams:18 alive:18 dead:0 reversions:0
+[17:48:29.856]   ♥  heartbeat | polls:5200 teams:18 alive:18 dead:0 reversions:0
+[17:48:35.446]   ♥  heartbeat | polls:5250 teams:18 alive:18 dead:0 reversions:0
+[17:48:40.934]   ♥  heartbeat | polls:5300 teams:18 alive:18 dead:0 reversions:0
+[17:48:46.441]   ♥  heartbeat | polls:5350 teams:18 alive:18 dead:0 reversions:0
+[17:48:52.100]   ♥  heartbeat | polls:5400 teams:18 alive:18 dead:0 reversions:0
+[17:48:57.599]   ♥  heartbeat | polls:5450 teams:18 alive:18 dead:0 reversions:0
+[17:49:03.104]   ♥  heartbeat | polls:5500 teams:18 alive:18 dead:0 reversions:0
+[17:49:08.603]   ♥  heartbeat | polls:5550 teams:18 alive:18 dead:0 reversions:0
+[17:49:14.120]   ♥  heartbeat | polls:5600 teams:18 alive:18 dead:0 reversions:0
+[17:49:14.576]   ── CHANGE DETECTED (+163660ms since last) ─────────────
+[17:49:14.582]   KILL [09] g kills: 0 -> 1 (+1)
+[17:49:14.583]   KILL [10] h kills: 3 -> 6 (+3)
+[17:49:14.584]   AC   [10] h aliveCount: 4 -> 3
+[17:49:14.584]   PS  [10] h P4: ALIVE -> DEAD
+[17:49:14.920]   ── CHANGE DETECTED (+344ms since last) ─────────────
+[17:49:14.921]   KILL [10] h kills: 6 -> 5 (-1) DROP
+[17:49:19.623]   ♥  heartbeat | polls:5650 teams:18 alive:18 dead:0 reversions:0
+[17:49:25.153]   ♥  heartbeat | polls:5700 teams:18 alive:18 dead:0 reversions:0
+[17:49:30.664]   ♥  heartbeat | polls:5750 teams:18 alive:18 dead:0 reversions:0
+[17:49:36.153]   ♥  heartbeat | polls:5800 teams:18 alive:18 dead:0 reversions:0
+[17:49:41.659]   ♥  heartbeat | polls:5850 teams:18 alive:18 dead:0 reversions:0
+[17:49:47.158]   ♥  heartbeat | polls:5900 teams:18 alive:18 dead:0 reversions:0
+[17:49:52.656]   ♥  heartbeat | polls:5950 teams:18 alive:18 dead:0 reversions:0
+[17:49:58.163]   ♥  heartbeat | polls:6000 teams:18 alive:18 dead:0 reversions:0
+[17:50:03.667]   ♥  heartbeat | polls:6050 teams:18 alive:18 dead:0 reversions:0
+[17:50:09.184]   ♥  heartbeat | polls:6100 teams:18 alive:18 dead:0 reversions:0
+[17:50:14.669]   ♥  heartbeat | polls:6150 teams:18 alive:18 dead:0 reversions:0
+[17:50:15.382]   ── CHANGE DETECTED (+60461ms since last) ─────────────
+[17:50:15.383]   AC   [05] a aliveCount: 4 -> 3
+[17:50:15.383]   PS  [05] a P4: ALIVE -> DEAD
+[17:50:15.384]   KILL [09] g kills: 1 -> 2 (+1)
+[17:50:15.385]   AC   [09] g aliveCount: 4 -> 3
+[17:50:15.385]   PS  [09] g P4: ALIVE -> DEAD
+[17:50:15.385]   AC   [10] h aliveCount: 3 -> 1
+[17:50:15.386]   PS  [10] h P2: ALIVE -> DEAD
+[17:50:15.386]   PS  [10] h P3: ALIVE -> DEAD
+[17:50:15.386]   KILL [11] j kills: 0 -> 1 (+1)
+[17:50:20.143]   ♥  heartbeat | polls:6200 teams:18 alive:18 dead:0 reversions:0
+[17:50:25.631]   ♥  heartbeat | polls:6250 teams:18 alive:18 dead:0 reversions:0
+[17:50:31.105]   ♥  heartbeat | polls:6300 teams:18 alive:18 dead:0 reversions:0
+[17:50:32.030]   ── CHANGE DETECTED (+16649ms since last) ─────────────
+[17:50:32.031]   AC   [08] f aliveCount: 4 -> 3
+[17:50:32.032]   PS  [08] f P4: ALIVE -> DEAD
+[17:50:32.032]   KILL [10] h kills: 5 -> 6 (+1)
+[17:50:36.609]   ♥  heartbeat | polls:6350 teams:18 alive:18 dead:0 reversions:0
+[17:50:36.967]   ── CHANGE DETECTED (+4938ms since last) ─────────────
+[17:50:36.968]   DEAD [10] h -> ELIMINATED kills=6
+[17:50:36.969]   RANK [10] h elim rank: #18
+[17:50:42.118]   ♥  heartbeat | polls:6400 teams:18 alive:17 dead:1 reversions:0
+[17:50:47.602]   ♥  heartbeat | polls:6450 teams:18 alive:17 dead:1 reversions:0
+[17:50:53.155]   ♥  heartbeat | polls:6500 teams:18 alive:17 dead:1 reversions:0
+[17:50:58.655]   ♥  heartbeat | polls:6550 teams:18 alive:17 dead:1 reversions:0
+[17:51:04.250]   ♥  heartbeat | polls:6600 teams:18 alive:17 dead:1 reversions:0
+[17:51:09.729]   ♥  heartbeat | polls:6650 teams:18 alive:17 dead:1 reversions:0
+[17:51:15.207]   ♥  heartbeat | polls:6700 teams:18 alive:17 dead:1 reversions:0
+[17:51:20.717]   ♥  heartbeat | polls:6750 teams:18 alive:17 dead:1 reversions:0
+[17:51:26.110]   ── CHANGE DETECTED (+49142ms since last) ─────────────
+[17:51:26.111]   KILL [07] d kills: 1 -> 3 (+2)
+[17:51:26.112]   AC   [07] d aliveCount: 4 -> 3
+[17:51:26.112]   PS  [07] d P4: ALIVE -> DEAD
+[17:51:26.115]   AC   [10] h aliveCount: 1 -> 0
+[17:51:26.117]   PS  [10] h P1: ALIVE -> DEAD
+[17:51:26.189]   ♥  heartbeat | polls:6800 teams:18 alive:17 dead:1 reversions:0
+[17:51:26.810]   ── CHANGE DETECTED (+698ms since last) ─────────────
+[17:51:26.813]   KILL [07] d kills: 3 -> 2 (-1) DROP
+[17:51:29.095]   ── CHANGE DETECTED (+2285ms since last) ─────────────
+[17:51:29.096]   DEAD [06] s -> ELIMINATED kills=0
+[17:51:29.096]   AC   [06] s aliveCount: 2 -> 1
+[17:51:29.097]   RANK [06] s elim rank: #17
+[17:51:29.097]   PS  [06] s P1: ALIVE -> DEAD
+[17:51:29.098]   AC   [07] d aliveCount: 3 -> 2
+[17:51:29.098]   PS  [07] d P3: ALIVE -> DEAD
+[17:51:31.615]   ── CHANGE DETECTED (+2514ms since last) ─────────────
+[17:51:31.621]   KILL [05] a kills: 0 -> 2 (+2)
+[17:51:31.622]   AC   [06] s aliveCount: 1 -> 0
+[17:51:31.638]   PS  [06] s P2: ALIVE -> DEAD
+[17:51:31.706]   ♥  heartbeat | polls:6850 teams:18 alive:16 dead:2 reversions:0
+[17:51:33.482]   ── CHANGE DETECTED (+1875ms since last) ─────────────
+[17:51:33.482]   AC   [07] d aliveCount: 2 -> 1
+[17:51:33.483]   PS  [07] d P2: ALIVE -> DEAD
+[17:51:33.483]   KILL [08] f kills: 4 -> 5 (+1)
+[17:51:37.165]   ♥  heartbeat | polls:6900 teams:18 alive:16 dead:2 reversions:0
+[17:51:39.061]   ── CHANGE DETECTED (+5579ms since last) ─────────────
+[17:51:39.062]   AC   [08] f aliveCount: 3 -> 2
+[17:51:39.062]   PS  [08] f P3: ALIVE -> DEAD
+[17:51:39.063]   KILL [09] g kills: 2 -> 3 (+1)
+[17:51:39.063]   AC   [13] l aliveCount: 4 -> 3
+[17:51:39.063]   PS  [13] l P4: ALIVE -> DEAD
+[17:51:39.278]   ── CHANGE DETECTED (+218ms since last) ─────────────
+[17:51:39.279]   KILL [08] f kills: 5 -> 6 (+1)
+[17:51:42.688]   ♥  heartbeat | polls:6950 teams:18 alive:16 dead:2 reversions:0
+[17:51:44.095]   ── CHANGE DETECTED (+4813ms since last) ─────────────
+[17:51:44.123]   AC   [05] a aliveCount: 3 -> 2
+[17:51:44.142]   PS  [05] a P3: ALIVE -> DEAD
+[17:51:44.152]   AC   [09] g aliveCount: 3 -> 2
+[17:51:44.153]   PS  [09] g P3: ALIVE -> DEAD
+[17:51:44.166]   DEAD [12] k -> ELIMINATED kills=0
+[17:51:44.174]   AC   [12] k aliveCount: 1 -> 0
+[17:51:44.205]   RANK [12] k elim rank: #16
+[17:51:44.216]   PS  [12] k P1: ALIVE -> DEAD
+[17:51:48.305]   ♥  heartbeat | polls:7000 teams:18 alive:15 dead:3 reversions:0
+[17:51:48.544]   ── CHANGE DETECTED (+4451ms since last) ─────────────
+[17:51:48.546]   KILL [06] s kills: 0 -> 1 (+1)
+[17:51:48.550]   KILL [11] j kills: 1 -> 3 (+2)
+[17:51:51.120]   ── CHANGE DETECTED (+2575ms since last) ─────────────
+[17:51:51.132]   KILL [08] f kills: 6 -> 3 (-3) DROP
+[17:51:51.133]   AC   [08] f aliveCount: 2 -> 1
+[17:51:51.134]   PS  [08] f P2: ALIVE -> DEAD
+[17:51:51.668]   ── CHANGE DETECTED (+546ms since last) ─────────────
+[17:51:51.670]   KILL [09] g kills: 3 -> 4 (+1)
+[17:51:52.310]   ── CHANGE DETECTED (+641ms since last) ─────────────
+[17:51:52.320]   DEAD [05] a -> ELIMINATED kills=2
+[17:51:52.327]   RANK [05] a elim rank: #15
+[17:51:53.817]   ♥  heartbeat | polls:7050 teams:18 alive:14 dead:4 reversions:0
+[17:51:59.347]   ♥  heartbeat | polls:7100 teams:18 alive:14 dead:4 reversions:0
+[17:51:59.812]   ── CHANGE DETECTED (+7507ms since last) ─────────────
+[17:51:59.814]   AC   [05] a aliveCount: 2 -> 0
+[17:51:59.816]   PS  [05] a P1: ALIVE -> DEAD
+[17:51:59.816]   PS  [05] a P2: ALIVE -> DEAD
+[17:52:04.836]   ♥  heartbeat | polls:7150 teams:18 alive:14 dead:4 reversions:0
+[17:52:05.315]   ── CHANGE DETECTED (+4981ms since last) ─────────────
+[17:52:05.315]   KILL [08] f kills: 3 -> 6 (+3)
+[17:52:10.346]   ♥  heartbeat | polls:7200 teams:18 alive:14 dead:4 reversions:0
+[17:52:15.848]   ♥  heartbeat | polls:7250 teams:18 alive:14 dead:4 reversions:0
+[17:52:21.347]   ♥  heartbeat | polls:7300 teams:18 alive:14 dead:4 reversions:0
+[17:52:26.849]   ♥  heartbeat | polls:7350 teams:18 alive:14 dead:4 reversions:0
+[17:52:32.358]   ♥  heartbeat | polls:7400 teams:18 alive:14 dead:4 reversions:0
+[17:52:37.844]   ♥  heartbeat | polls:7450 teams:18 alive:14 dead:4 reversions:0
+[17:52:43.325]   ♥  heartbeat | polls:7500 teams:18 alive:14 dead:4 reversions:0
+[17:52:48.825]   ♥  heartbeat | polls:7550 teams:18 alive:14 dead:4 reversions:0
+[17:52:54.331]   ♥  heartbeat | polls:7600 teams:18 alive:14 dead:4 reversions:0
+[17:52:59.832]   ♥  heartbeat | polls:7650 teams:18 alive:14 dead:4 reversions:0
+[17:53:05.312]   ── CHANGE DETECTED (+59991ms since last) ─────────────
+[17:53:05.318]   AC   [09] g aliveCount: 2 -> 1
+[17:53:05.320]   PS  [09] g P2: ALIVE -> DEAD
+[17:53:05.322]   DEAD [13] l -> ELIMINATED kills=2
+[17:53:05.324]   AC   [13] l aliveCount: 3 -> 1
+[17:53:05.324]   RANK [13] l elim rank: #14
+[17:53:05.324]   PS  [13] l P2: ALIVE -> DEAD
+[17:53:05.325]   PS  [13] l P3: ALIVE -> DEAD
+[17:53:05.333]   ♥  heartbeat | polls:7700 teams:18 alive:13 dead:5 reversions:0
+[17:53:07.482]   ── CHANGE DETECTED (+2171ms since last) ─────────────
+[17:53:07.486]   DEAD [09] g -> ELIMINATED kills=4
+[17:53:07.502]   AC   [09] g aliveCount: 1 -> 0
+[17:53:07.503]   RANK [09] g elim rank: #13
+[17:53:07.504]   PS  [09] g P1: ALIVE -> DEAD
+[17:53:07.505]   AC   [13] l aliveCount: 1 -> 0
+[17:53:07.505]   PS  [13] l P1: ALIVE -> DEAD
+[17:53:10.871]   ♥  heartbeat | polls:7750 teams:18 alive:12 dead:6 reversions:0
+[17:53:11.319]   ── CHANGE DETECTED (+3843ms since last) ─────────────
+[17:53:11.320]   KILL [07] d kills: 2 -> 3 (+1)
+[17:53:11.321]   KILL [08] f kills: 6 -> 7 (+1)
+[17:53:16.381]   ♥  heartbeat | polls:7800 teams:18 alive:12 dead:6 reversions:0
+[17:53:21.377]   ── CHANGE DETECTED (+10056ms since last) ─────────────
+[17:53:21.377]   KILL [11] j kills: 3 -> 4 (+1)
+[17:53:21.378]   AC   [11] j aliveCount: 3 -> 2
+[17:53:21.379]   PS  [11] j P3: ALIVE -> DEAD
+[17:53:21.887]   ♥  heartbeat | polls:7850 teams:18 alive:12 dead:6 reversions:0
+[17:53:27.360]   ♥  heartbeat | polls:7900 teams:18 alive:12 dead:6 reversions:0
+[17:53:32.867]   ♥  heartbeat | polls:7950 teams:18 alive:12 dead:6 reversions:0
+[17:53:37.845]   ── CHANGE DETECTED (+1100ms since last) ─────────────
+[17:53:37.847]   KILL [11] j kills: 4 -> 5 (+1)
+[17:53:38.361]   ♥  heartbeat | polls:8000 teams:18 alive:12 dead:6 reversions:0
+[17:53:43.841]   ♥  heartbeat | polls:8050 teams:18 alive:12 dead:6 reversions:0
+[17:53:47.262]   ── CHANGE DETECTED (+9416ms since last) ─────────────
+[17:53:47.262]   DEAD [07] d -> ELIMINATED kills=3
+[17:53:47.263]   AC   [07] d aliveCount: 1 -> 0
+[17:53:47.275]   RANK [07] d elim rank: #12
+[17:53:47.276]   PS  [07] d P1: ALIVE -> DEAD
+[17:53:49.345]   ♥  heartbeat | polls:8100 teams:18 alive:11 dead:7 reversions:0
+[17:53:54.933]   ♥  heartbeat | polls:8150 teams:18 alive:11 dead:7 reversions:0
+[17:54:00.442]   ♥  heartbeat | polls:8200 teams:18 alive:11 dead:7 reversions:0
+[17:54:04.795]   ── CHANGE DETECTED (+17521ms since last) ─────────────
+[17:54:04.808]   KILL [08] f kills: 7 -> 10 (+3)
+[17:54:05.962]   ♥  heartbeat | polls:8250 teams:18 alive:11 dead:7 reversions:0
+[17:54:11.514]   ♥  heartbeat | polls:8300 teams:18 alive:11 dead:7 reversions:0
+[17:54:13.323]   ── CHANGE DETECTED (+8536ms since last) ─────────────
+[17:54:13.324]   DEAD [08] f -> ELIMINATED kills=10
+[17:54:13.325]   AC   [08] f aliveCount: 1 -> 0
+[17:54:13.335]   RANK [08] f elim rank: #11
+[17:54:13.336]   PS  [08] f P1: ALIVE -> DEAD
+[17:54:17.178]   ♥  heartbeat | polls:8350 teams:18 alive:10 dead:8 reversions:0
+[17:54:22.698]   ♥  heartbeat | polls:8400 teams:18 alive:10 dead:8 reversions:0
+[17:54:27.765]   ── CHANGE DETECTED (+8757ms since last) ─────────────
+

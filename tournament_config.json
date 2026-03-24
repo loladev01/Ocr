@@ -1,0 +1,207 @@
+{
+  "current_id": "ed46b2e2",
+  "map": "erangel",
+  "page1Range": [
+    5,
+    13
+  ],
+  "page2Range": [
+    14,
+    22
+  ],
+  "slots": {
+    "05": {
+      "players": 4,
+      "team": "a"
+    },
+    "06": {
+      "players": 4,
+      "team": "s"
+    },
+    "07": {
+      "players": 4,
+      "team": "d"
+    },
+    "08": {
+      "players": 4,
+      "team": "f"
+    },
+    "09": {
+      "players": 4,
+      "team": "g"
+    },
+    "10": {
+      "players": 4,
+      "team": "h"
+    },
+    "11": {
+      "players": 4,
+      "team": "j"
+    },
+    "12": {
+      "players": 4,
+      "team": "k"
+    },
+    "13": {
+      "players": 4,
+      "team": "l"
+    },
+    "14": {
+      "players": 4,
+      "team": "z"
+    },
+    "15": {
+      "players": 4,
+      "team": "x"
+    },
+    "16": {
+      "players": 4,
+      "team": "c"
+    },
+    "17": {
+      "players": 4,
+      "team": "v"
+    },
+    "18": {
+      "players": 4,
+      "team": "b"
+    },
+    "19": {
+      "players": 4,
+      "team": "n"
+    },
+    "20": {
+      "players": 4,
+      "team": "m"
+    },
+    "21": {
+      "players": 4,
+      "team": "q"
+    },
+    "22": {
+      "players": 4,
+      "team": "w"
+    }
+  },
+  "total_teams": 18,
+  "tournament": "NES TEST",
+  "tournaments": {
+    "ed46b2e2": {
+      "created": 1774342925,
+      "id": "ed46b2e2",
+      "map": "erangel",
+      "name": "NES TEST",
+      "page1Range": [
+        5,
+        13
+      ],
+      "page2Range": [
+        14,
+        22
+      ],
+      "slots": {
+        "01": {
+          "players": 4,
+          "team": ""
+        },
+        "02": {
+          "players": 4,
+          "team": ""
+        },
+        "03": {
+          "players": 4,
+          "team": ""
+        },
+        "04": {
+          "players": 4,
+          "team": ""
+        },
+        "05": {
+          "players": 4,
+          "team": "a"
+        },
+        "06": {
+          "players": 4,
+          "team": "s"
+        },
+        "07": {
+          "players": 4,
+          "team": "d"
+        },
+        "08": {
+          "players": 4,
+          "team": "f"
+        },
+        "09": {
+          "players": 4,
+          "team": "g"
+        },
+        "10": {
+          "players": 4,
+          "team": "h"
+        },
+        "11": {
+          "players": 4,
+          "team": "j"
+        },
+        "12": {
+          "players": 4,
+          "team": "k"
+        },
+        "13": {
+          "players": 4,
+          "team": "l"
+        },
+        "14": {
+          "players": 4,
+          "team": "z"
+        },
+        "15": {
+          "players": 4,
+          "team": "x"
+        },
+        "16": {
+          "players": 4,
+          "team": "c"
+        },
+        "17": {
+          "players": 4,
+          "team": "v"
+        },
+        "18": {
+          "players": 4,
+          "team": "b"
+        },
+        "19": {
+          "players": 4,
+          "team": "n"
+        },
+        "20": {
+          "players": 4,
+          "team": "m"
+        },
+        "21": {
+          "players": 4,
+          "team": "q"
+        },
+        "22": {
+          "players": 4,
+          "team": "w"
+        },
+        "23": {
+          "players": 4,
+          "team": ""
+        },
+        "24": {
+          "players": 4,
+          "team": ""
+        },
+        "25": {
+          "players": 4,
+          "team": ""
+        }
+      },
+      "teamCount": 18
+    }
+  }
+}
